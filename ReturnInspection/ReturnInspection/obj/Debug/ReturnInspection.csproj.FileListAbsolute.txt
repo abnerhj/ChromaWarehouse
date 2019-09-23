@@ -1,0 +1,14 @@
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\bin\Debug\ReturnInspection.exe
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\bin\Debug\ReturnInspection.pdb
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\bin\Debug\ClientUtils.dll
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.csprojAssemblyReference.cache
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.fMain.resources
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.Properties.Resources.resources
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.csproj.GenerateResource.cache
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.csproj.CoreCompileInputs.cache
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.csproj.CopyComplete
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.pdb
+C:\Users\25297\Desktop\久正二期\Chroma MES Client\QualityControl\ReturnInspection.dll
+C:\Users\25297\Desktop\久正二期\Chroma MES Client\QualityControl\ReturnInspection.pdb
+C:\Users\25297\source\repos\ReturnInspection\ReturnInspection\obj\Debug\ReturnInspection.dll
+C:\Users\25297\Desktop\久正二期\Chroma MES Client\QualityControl\ReturnInspection.xml

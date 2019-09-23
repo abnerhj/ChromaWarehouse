@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Chroma>
+  <繁體中文>
+    <Message Name="QC" Value="QC號" />
+    <Message Name="SN" Value="物料批次/RC" />
+    <Message Name="SNNO" Value="批次號" />
+    <Message Name="WO" Value="工單" />
+    <Message Name="Material" Value="料號" />
+    <Message Name="QTY" Value="數量" />
+    <Message Name="TYPE" Value="類型" />
+    <Message Name="Remark" Value="備註" />
+    <Message Name="Allow" Value="允收" />
+    <Message Name="Return" Value="判退" />
+
+    <Message Name="HAVE RECORD" Value="已處理過" />
+    <Message Name="SN NOT EXIT" Value="物料批次不存在" />
+    <Message Name="RC QTY EMPTY" Value="流程卡數量為空" />
+    <Message Name="REEL QTY EMPTY" Value="批次數量為空" />
+  </繁體中文>
+  <简体中文>
+    <Message Name="QC" Value="QC号" />
+    <Message Name="SN" Value="物料批次/RC" />
+    <Message Name="SNNO" Value="批次号" />
+    <Message Name="WO" Value="工单" />
+    <Message Name="Material" Value="料号" />
+    <Message Name="QTY" Value="数量" />
+    <Message Name="TYPE" Value="类型" />
+    <Message Name="Remark" Value="备注" />
+    <Message Name="Allow" Value="允收" />
+    <Message Name="Return" Value="判退" />
+    
+    <Message Name="HAVE RECORD" Value="已处理过" />
+    <Message Name="SN NOT EXIT" Value="物料批次不存在" />
+    <Message Name="RC QTY EMPTY" Value="流程卡数量为空" />
+    <Message Name="REEL QTY EMPTY" Value="批次数量为空" />
+  </简体中文>
+
+</Chroma>
